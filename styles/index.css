@@ -14,8 +14,78 @@
     font-family: Roboto;
     margin: 0%;
     padding: 0%;
+    color: #6065E5
 }
 
 h1{
     font-family: Game;
+    color: #4f53d3;
+    text-shadow: 0px 0px 8px #EC1EFE;
+}
+
+#corpo{
+    background-color: #080A15;
+}
+
+.mn{
+    border: 3px solid #27FF7E;
+    width: 80px;
+    height: 35px;
+    box-shadow: 0px 0px 6px 4px rgba(152, 255, 116, 0.77);
+    border-radius: 9px;
+}
+
+#men{
+    width: 50%;
+}
+
+ul li{
+        font-size: 20px;
+        text-align: center;
+        list-style: none;
+        
+        display: inline-block;
+        padding-right: 18px;
+}
+
+#mend{
+    width: 50%;
+    align-items: flex-end;
+    align-self: flex-end;
+}
+
+
+
+#quem{
+    background: #22D94A;
+    border: 2px dashed #FFFFFF;
+    box-shadow: 0px 0px 15px -2px #91FFBD;
+    border-radius: 15px;
+    width: 50%;
+    height: 500px;
+    display: flex;
+}
+
+#tex{
+    width: 35%;
+}
+
+#imgi{
+    
+    background-image: url(../img/b195e14b72110c1fc514d9624ff08c59.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 25%;
+    height: 300px;
+    border-radius: 16px;
+}
+
+#imgido{
+    width: 156px;
+    height: 156px;
+
+    background-image: url(../img/cf8c7bd052ef2d84078dbdd66e9e15cb.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 100px;
 }
