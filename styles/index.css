@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Roboto;
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+    font-weight: normal;
+}       
+
+@font-face {
+    font-family: Game;
+    src: url(../fonts/game_of_squids/Game\ Of\ Squids.ttf);
+   
+}
+
+*{
+    font-family: Roboto;
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    font-family: Game;
+}
